@@ -1,1 +1,3 @@
-printf("hello world")
+print("hello world")
+b=12
+print(b)
